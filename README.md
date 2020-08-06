@@ -9,3 +9,8 @@
 📫 How to reach me?
   - [![Telegram Niteshkumar](https://img.shields.io/badge/Telegram-❤-blue)](https://t.me/Niteshkumar15/)
   - [![XDA Niteshkumar](https://img.shields.io/badge/XDA-❤-brown)](https://forum.xda-developers.com/member.php?u=9418003)
+
+⚡ Fun fact: I love to play flute!
+
+---
+<img align="left" alt="Niteshkumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=niteshkumar2000&show_icons=true&hide_border=true" />
