@@ -13,4 +13,4 @@
 ⚡ Fun fact: I love to play flute!
 
 ---
-<img align="left" alt="Niteshkumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=niteshkumar2000&show_icons=true&hide_border=true&include_all_commits=true" />
+<img align="left" alt="Niteshkumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=niteshkumar2000&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
