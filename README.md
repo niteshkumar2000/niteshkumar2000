@@ -1,6 +1,6 @@
 ### Hello! This is Niteshkumar.
 
-🔭 I’m currently interning at &nbsp; [![KLA](https://img.shields.io/badge/KLA-❤-red)](https://www.kla-tencor.com/)
+🔭 I’m currently working at &nbsp; [![KLA](https://img.shields.io/badge/KLA-❤-red)](https://www.kla-tencor.com/)
 
 🤔 Wanna know more about me!? Checkout my &nbsp; [![Portfolio](https://img.shields.io/badge/Portfolio-❤-orange)](https://niteshkumar2000.github.io/portfolio/)
 
